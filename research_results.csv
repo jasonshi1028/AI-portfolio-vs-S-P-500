@@ -1,0 +1,10 @@
+Metric,AI Portfolio,S&P 500
+Total Return,5270.741127711415,"Ticker
+^GSPC    241.780518
+dtype: float64"
+Annualized Volatility,0.397974126536125,"Ticker
+^GSPC    0.180482
+dtype: float64"
+Risk-Adjusted Score,132.4392913073704,"Ticker
+^GSPC    13.396341
+dtype: float64"
